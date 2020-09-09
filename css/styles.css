@@ -52,3 +52,23 @@ body {
   position: absolute;
   bottom: 0px;
   z-index: 1; }
+
+#loginHeader {
+  background: #512DA8;
+  color: floralwhite; }
+
+#loginBody {
+  background: #D1C4E9; }
+
+#loginModalClose {
+  color: floralwhite; }
+
+#reserveHeader {
+  background: #512DA8;
+  color: floralwhite; }
+
+#reserveBody {
+  background: #D1C4E9; }
+
+#reserveModalClose {
+  color: floralwhite; }

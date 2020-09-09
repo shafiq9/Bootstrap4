@@ -76,3 +76,26 @@ body{
     z-index: 1;
 }
 
+#loginHeader{
+    background:$background-dark;
+    color:floralwhite;
+}
+#loginBody{
+    background:$background-pale;
+}
+#loginModalClose{
+    color:floralwhite;
+}
+
+#reserveHeader{
+    background:$background-dark;
+    color:floralwhite;
+}
+#reserveBody{
+    background:$background-pale;
+}
+#reserveModalClose{
+    color:floralwhite;
+}
+
+
